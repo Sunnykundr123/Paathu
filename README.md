@@ -6,7 +6,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=road+rage&color=00BFFF&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -52,8 +52,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
 <br >
 Don't deploy 😁 
 ```
-``` 
-  
+  ```
 
 
 ### ⚠️ Warning! 
